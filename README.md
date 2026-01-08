@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning NFTs
+- 🌱 I’m currently learning Incubator Simulators
 - 👯 I’m looking to collaborate on Art Projects 
-- 💬 Ask me about IoT
+- 💬 Ask me about IoT, AI
 - ❤️ to check https://github.com/explore
 
 <!--
