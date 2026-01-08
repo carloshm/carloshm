@@ -6,8 +6,6 @@
 - 💬 Ask me about IoT
 - ❤️ to check https://github.com/explore
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=carloshm)](https://git.io/streak-stats)
-
 <!--
 **carloshm/carloshm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
