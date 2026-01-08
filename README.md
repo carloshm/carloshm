@@ -6,7 +6,8 @@
 - 💬 Ask me about IoT
 - ❤️ to check https://github.com/explore
 
-[![carloshm's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloshm&include_all_commits=true)](https://github.com/carloshm)
+[![GitHub Streak](https://streak-stats.demolab.com?user=carloshm)](https://git.io/streak-stats)
+
 <!--
 **carloshm/carloshm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
